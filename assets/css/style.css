@@ -139,6 +139,41 @@ img {
 	width: 90%;
 }
 
+.hangman {
+	float: left;
+	position: absolute;
+	top: 211px;
+	left: -350px;
+}
+
+.rpg {
+	float: right;
+	position: absolute;
+	top: 211px;
+	left: 670px;
+}
+
+.trivia {
+	float: left;
+	position: absolute;
+	top: 500px;
+	left: -350px;
+}
+
+.rutgers {
+	float: right;
+	position: absolute;
+	top: 500px;
+	left: 670px;
+}
+
+.rps {
+	float: left;
+	position: absolute;
+	top: 792px;
+	left: -350px;
+}
+
 /* .footer {
 	background: #061D25;
 	padding: 10px 0;
