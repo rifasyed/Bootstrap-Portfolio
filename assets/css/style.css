@@ -73,10 +73,11 @@ img {
 }
 
 .col-sm-11 {
-	background-color: #453d58;
+	background-color: #372b58;
 	opacity: 0.85;
 	/* margin-top: 5px; */
 	z-index: 1;
+	height: 90%;
 }
 
 
@@ -172,9 +173,4 @@ img {
 		transition: all .5s ease;
 	} */
 
-/* @media screen and (max-width: 667px) {
-	.col-sm-1 {
-		width: 100%;
-		height: 10%;
-	}
- } */
+/* 
